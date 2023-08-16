@@ -1,8 +1,11 @@
 .App {
+  
+  font-size: 200%;
+  color: black;
   text-align: center;
 }
 
-.App-logo {
+.h1 {
   height: 40vmin;
   pointer-events: none;
 }

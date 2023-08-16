@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: rgb(230, 221, 226);
+}
+label{
+  color: rgb(0, 162, 255);
+  font-size: x-large;
+  font-style: italic;
+}
+
+input{
+  border: solid;
+  border-radius: 25px;
+  width: 20%;
+  height: 20%;
+  color: brown;
+}
+.btn{
+  width: 20%;
+  height: 20%;
+  color: brown;
+  border: solid;
+  margin-top: 20px;
+  border-radius: 25px;
+}
+
+/* .hii{
+  display: flex;
+  align-items: center;
+} */
